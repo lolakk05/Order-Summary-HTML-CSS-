@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://www.frontendmentor.io/solutions/ordersummaryhtmlcss-6vY6sAEmBH
+- Live Site URL:  https://lolakk05.github.io/Order-Summary-HTML-CSS-/
 
 ## My process
 
